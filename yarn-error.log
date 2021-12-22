@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\NIRLIN\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @mui/material @emotion/react @emotion/styled
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Users\NIRLIN\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\NIRLIN\AppData\Local\Programs\Python\Python39\;C:\Users\NIRLIN\AppData\Local\Microsoft\WindowsApps;C:\Users\NIRLIN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\NIRLIN\AppData\Roaming\npm;C:\Users\NIRLIN\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\NIRLIN\AppData\Local\Programs\Python\Python39;C:\Users\NIRLIN\AppData\Local\GitHubDesktop\bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.15.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: read ECONNRESET
+      at TLSWrap.onStreamRead (internal/stream_base_commons.js:209:20)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
